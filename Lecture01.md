@@ -4,7 +4,7 @@
 - AIとは
 
 <div>
-  <img src="./images/chap01/1-1.jpg" widht="70%">
+  <img src="./images/chap01/1-1.jpg" widht="50%">
 </div>
 
 - 強いAIと弱いAI
@@ -42,6 +42,10 @@
    写真を芸術的なスタイルに変換。
 - 人間らしさとAI(チューニングテスト)
 - 中国語の部屋
+<div>
+  <img src="./images/chap01/1-2.jpg" widht="50%">
+</div>
+
 - チャットボット
 - ELIZA効果
   - ものに愛着を感じてしまう
@@ -50,8 +54,19 @@
 # 1-2 なぜAIが必要とされているのか
 - AIへの期待
 - ハイプ曲線
+<div>
+  <img src="./images/chap01/1-3.jpg" widht="50%">
+</div>
+
 - AIブーム
+<div>
+  <img src="./images/chap01/1-4.jpg" widht="50%">
+</div>
 
 # 1-3 この本ではどこまで学ぶのか
 - AIのしくみや原理
+<div>
+  <img src="./images/chap01/1-5.jpg" widht="50%">
+</div>
+
 - AIの発展と人間の自由
