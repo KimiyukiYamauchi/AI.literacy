@@ -40,6 +40,13 @@
    特にアートに特化した高品質な画像生成。
     - **DeepArt**  
    写真を芸術的なスタイルに変換。
+- 生成AI
+  - ChatGPT  
+  OpenAIが開発したAIアシスタント。ーザーの質問に答えたり、情報を提供したり、文章作成や問題解決のサポートをしたりするために設計されている。  
+  [実行例1 テトリスの仕様](https://chatgpt.com/share/677e0423-d408-8002-9038-42035c429ac0)  
+  [実行例2 テトリスの実装](https://chatgpt.com/share/67807a13-bb30-8002-9096-87b5bb97f76f)  
+  [テトリス(実行)](https://kimiyukiyamauchi.github.io/tetris.js/)  
+  [テトリス(ソース)](https://github.com/KimiyukiYamauchi/tetris.js)  
 - 人間らしさとAI(チューニングテスト)
 - 中国語の部屋
 <div>
