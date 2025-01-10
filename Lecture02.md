@@ -39,6 +39,7 @@
 </div>
 
 - データ駆動型社会とは
+  - ウエアラブルコンピュータの例：GoogleGlass
 <div style="margin: 2em">
   <img src="./images/chap02/2-8.jpg" widht="50%">
 </div>
