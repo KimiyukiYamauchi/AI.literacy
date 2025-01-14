@@ -4,7 +4,7 @@
 - AIとは
 
 <div>
-  <img src="./images/chap01/1-1.jpg" widht="50%">
+  <img src="./images/chap01/1-1.jpg" width="50%">
 </div>
 
 - 強いAIと弱いAI
@@ -50,7 +50,7 @@
 - 人間らしさとAI(チューニングテスト)
 - 中国語の部屋
 <div>
-  <img src="./images/chap01/1-2.jpg" widht="50%">
+  <img src="./images/chap01/1-2.jpg" width="50%">
 </div>
 
 - チャットボット
@@ -62,18 +62,18 @@
 - AIへの期待
 - ハイプ曲線
 <div>
-  <img src="./images/chap01/1-3.jpg" widht="50%">
+  <img src="./images/chap01/1-3.jpg" width="50%">
 </div>
 
 - AIブーム
 <div>
-  <img src="./images/chap01/1-4.jpg" widht="50%">
+  <img src="./images/chap01/1-4.jpg" width="50%">
 </div>
 
 # 1-3 この本ではどこまで学ぶのか
 - AIのしくみや原理
 <div>
-  <img src="./images/chap01/1-5.jpg" widht="50%">
+  <img src="./images/chap01/1-5.jpg" width="50%">
 </div>
 
 - AIの発展と人間の自由
